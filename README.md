@@ -40,7 +40,7 @@ The dataset (`health_data.csv`) includes anonymized health information for multi
 
 ## How to Run
 
-### Option 1: Using Google Colab
+### Using Google Colab
 
 1. Upload the following files to your Colab environment:
    - `health_risk_prediction_college_level.py`
